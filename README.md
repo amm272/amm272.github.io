@@ -1,2 +1,2 @@
 # page
-This is my personal website and portofolio
+This is my personal website and portofolio.
